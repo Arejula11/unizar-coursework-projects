@@ -25,18 +25,18 @@ Each entry includes a brief description and a link to the corresponding reposito
 
 | **Subject** | **Project** |**Description** | **Date** |
 | --- | --- | --- | ---|
-| **Programming I**                    | [Práctica 2](https://github.com/Arejula11/Practica2_Prog1/tree/main) | Second programming assignment | Oct 2021|
-| | [Práctica 3](https://github.com/Arejula11/Practica3_Prog1.git) | Third programming assignment | Nov 2021|
-| | [Práctica 4](https://github.com/Arejula11/practica4_Prog1) | Fourth programming assignment | Nov 2021| 
-| | [Práctica 5](https://github.com/Arejula11/practica5_Prog1) | Fifth programming assignment | Dec 2021| 
-| | [Práctica 6](https://github.com/Arejula11/practica6_Prog1) | Sixth programming assignment | Nov 2021| 
+| **Programming I**                    | [Práctica 2](https://github.com/Arejula11/Practica2_Prog1/tree/main) | Second programming I assignment | Oct 2021|
+| | [Práctica 3](https://github.com/Arejula11/Practica3_Prog1.git) | Third programming I assignment | Nov 2021|
+| | [Práctica 4](https://github.com/Arejula11/practica4_Prog1) | Fourth programming I assignment | Nov 2021| 
+| | [Práctica 5](https://github.com/Arejula11/practica5_Prog1) | Fifth programming I assignment | Dec 2021| 
+| | [Práctica 6](https://github.com/Arejula11/practica6_Prog1) | Sixth programming I assignment | Nov 2021| 
 | | [Final project](https://github.com/Arejula11/trabajo-2021-22_Prog1) | Final project for Programming I | Jan 2022| 
-| **Programming II**                   |  | | | |
-| | | | |
-| | | | |
-| | | | |
-| **Operating Systems**                |  | | | |
-| **Computer Networks**                |  | | | |
+| **Programming II**                   | [Práctica 1](https://github.com/Arejula11/practica1_Prog2) |First programming II assignment | Feb 2022|
+| | [Práctica 3](https://github.com/Arejula11/practica3_Prog2) | Third programming II assignment | May 2022|
+| | [Práctica 4](https://github.com/Arejula11/practica4_prog2) | Fourth programming II assignment | May 2022|
+| | [Betris](https://github.com/Arejula11/Trabajo_Prog2) | Develop Betris game using C++, a variant of Tetris | May 2022|
+| **Operating Systems**                |  | | | 
+| **Computer Networks**                |  | | | 
 | **Concurrent and Distributed Systems Programming**  |  | | |
 | **Data Structures and Algorithms**    |  | | |
 | **Computer Science Theory**           |  | | |
