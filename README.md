@@ -32,24 +32,35 @@ Each entry includes a brief description and a link to the corresponding reposito
 | | [Práctica 6](https://github.com/Arejula11/practica6_Prog1) | Sixth programming assignment | Nov 2021| 
 | | [Final project](https://github.com/Arejula11/trabajo-2021-22_Prog1) | Final project for Programming I | Jan 2022| 
 | **Programming II**                   |  | | | |
+| | | | |
+| | | | |
+| | | | |
 | **Operating Systems**                |  | | | |
 | **Computer Networks**                |  | | | |
 | **Concurrent and Distributed Systems Programming**  |  | | |
 | **Data Structures and Algorithms**    |  | | |
 | **Computer Science Theory**           |  | | |
-| **Computer Architecture and Organisation II**  |  | | |
+| **Computer Architecture and Organisation II**  | [Final project](https://github.com/Practicass/Proyecto_AOC2/tree/master) | Manage risks and exceptions in MIPS | May 2023|
 | **Systems Administration**            |  | | |
 | **Person-Computer Interaction**       |  | | |
 | **Programming Theory**                |  | | |
-| **Databases**                         |  | | |
-| **Hardware Project**                  |  | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| **Databases**                         | [Football DB](https://github.com/Practicass/Practica1_LigaFutbol) | Design and develop a database for managing football league information, including tables for teams, players, and matches | Mar 2023 |
+| | [Films DB](https://github.com/Practicass/Practica2_Peliculas) | Design and develop a database for managing film information, including tables for films, actors, and directors | Apr 2023 |
+| | [Flights DB](https://github.com/Practicass/Practica3_Vuelos)| Design and develop a database for managing flight information, including tables for flights, airports, and airlines | May 2023 |
+| **Hardware Project**                  | [Connect-k](https://github.com/Practicass/Proyecto_hardware) | Develop a fully autonomous and modular version of the Conecta K game on an LPC2105 microcontroller | Nov 2023 |
 | **Distributed Systems**               |  | | |
 | **Software Engineering**              |  | | |
 | **Artificial Intelligence**           |  | | |
-| **Information Systems**           | [FitLife](https://github.com/Practicass/FitLife) | FitLife is a social network for the fitness community| |
+| **Information Systems**           | [FitLife](https://github.com/Practicass/FitLife) | FitLife is a social network for the fitness community| Dec 2023 |
 | **Software Project**                  | [PlayBeat](https://github.com/UNIZAR-30226-2024-03) | A web platform to play music, upload your own tracks, and create shared playlists with other users. | May 2024 |
 | **Verification and Validation**       |  | | |
 | **Software Architecture**             |  | | |
+| **Information Systems**           | [Odoo Review](https://github.com/Practicass/sisInfo2_proyect) | Review of an Open Source ERP system, Odoo, focusing on its architecture and functionalities.| May 2024 |
 | **Database and Web Applications Laboratory UPORTO**| [PawPals](https://github.com/Arejula11/PawPals)| A social network designed for the pet community. It allows pet owners to connect, share daily pet activities, discuss pet care, and promote pet adoption and rescue.| Jan 2025 |
 | **Interactive Graphics Systems UPORTO** | [SGI](https://github.com/Arejula11/SGI_FEUP) | Three projects using Threejs to create 3D scenes and one videogame| Jan 2025 |
 | **Software Engineering Laboratory**   | [ByronHUB](https://github.com/UNIZAR-30249-2025-PMPJ) | The Ada ByronHUB is an interactive platform designed to simplify and optimie the booking of spaces within the Ada Byron building. | May 2025 |
