@@ -45,7 +45,7 @@ There are not repositories for every subject, as some projects were not hosted o
 | **Verification and Validation**       |  | |
 | **Software Architecture**             |  | |
 | **Software Engineering Laboratory**   | [ByronHUB](https://github.com/UNIZAR-30249-2025-PMPJ) | The Ada ByronHUB is an interactive platform designed to simplify and optimie the booking of spaces within the Ada Byron building. |
-| **Web Systems and Technologies**      | [AgroNET🌾](https://github.com/STW-24-25) | AgroNET is a collaborative web platform for farmers, offering crop data sharing, real-time market prices, personalized weather alerts, and interactive parcel mapping across Spain. |
+| **Web Systems and Technologies**      | [AgroNET](https://github.com/STW-24-25) | AgroNET is a collaborative web platform for farmers, offering crop data sharing, real-time market prices, personalized weather alerts, and interactive parcel mapping across Spain. |
 | | | |
 
 
