@@ -30,12 +30,13 @@ Each entry includes a brief description and a link to the corresponding reposito
 | | [Práctica 4](https://github.com/Arejula11/practica4_Prog1) | Fourth programming I assignment | Nov 2021| 
 | | [Práctica 5](https://github.com/Arejula11/practica5_Prog1) | Fifth programming I assignment | Dec 2021| 
 | | [Práctica 6](https://github.com/Arejula11/practica6_Prog1) | Sixth programming I assignment | Nov 2021| 
-| | [Final project](https://github.com/Arejula11/trabajo-2021-22_Prog1) | Final project for Programming I | Jan 2022| 
+| | [Final project](https://github.com/Arejula11/trabajo-2021-22_Prog1) | Final project for Programming I | Jan 2022|
+| **Computer Architecture and Organisation I** | [Final project](https://github.com/Arejula11/AOC_trabajo)| Retro game | May 2022| 
 | **Programming II**                   | [Práctica 1](https://github.com/Arejula11/practica1_Prog2) |First programming II assignment | Feb 2022|
 | | [Práctica 3](https://github.com/Arejula11/practica3_Prog2) | Third programming II assignment | May 2022|
 | | [Práctica 4](https://github.com/Arejula11/practica4_prog2) | Fourth programming II assignment | May 2022|
 | | [Betris](https://github.com/Arejula11/Trabajo_Prog2) | Develop Betris game using C++, a variant of Tetris | May 2022|
-| **Operating Systems**                |  | | | 
+| **Operating Systems**                | [Voluntary exercises](https://github.com/Arejula11/ejercicios_SO_voluntarios) | Voluntary exercises to improve the knowledge | Jan 2022 | 
 | **Computer Networks**                |  | | | 
 | **Concurrent and Distributed Systems Programming**  |  | | |
 | **Data Structures and Algorithms**    |  | | |
@@ -58,15 +59,19 @@ Each entry includes a brief description and a link to the corresponding reposito
 | **Artificial Intelligence**           |  | | |
 | **Information Systems**           | [FitLife](https://github.com/Practicass/FitLife) | FitLife is a social network for the fitness community| Dec 2023 |
 | **Software Project**                  | [PlayBeat](https://github.com/UNIZAR-30226-2024-03) | A web platform to play music, upload your own tracks, and create shared playlists with other users. | May 2024 |
-| **Verification and Validation**       |  | | |
-| **Software Architecture**             |  | | |
+| **Verification and Validation**       | [Project](https://github.com/Practicass/unizar-vv-comidas) | Testing project of a Java application | May 2024 |
+| **Software Architecture**             | [Observer pattern](https://github.com/Practicass/observer_pattern.git) | This is a simple implementation of the Observer Pattern in C++ | Feb 2024 |
+| | [MVC](https://github.com/Practicass/MVC) | Simple app using Model View Controller pattern | Feb 2024 |
+| | [Simple Broker](https://github.com/Practicass/Broker) | Simple broker implemented in Java | Apr 2024 |
+| | [Messages Broker](https://github.com/Practicass/brokerMensajes) | This is a simple and efficient message broker implemented in Go | May 2024 |
 | **Information Systems**           | [Odoo Review](https://github.com/Practicass/sisInfo2_proyect) | Review of an Open Source ERP system, Odoo, focusing on its architecture and functionalities.| May 2024 |
 | **Database and Web Applications Laboratory UPORTO**| [PawPals](https://github.com/Arejula11/PawPals)| A social network designed for the pet community. It allows pet owners to connect, share daily pet activities, discuss pet care, and promote pet adoption and rescue.| Jan 2025 |
 | **Interactive Graphics Systems UPORTO** | [SGI](https://github.com/Arejula11/SGI_FEUP) | Three projects using Threejs to create 3D scenes and one videogame| Jan 2025 |
 | **Software Engineering Laboratory**   | [ByronHUB](https://github.com/UNIZAR-30249-2025-PMPJ) | The Ada ByronHUB is an interactive platform designed to simplify and optimie the booking of spaces within the Ada Byron building. | May 2025 |
 | **Web Systems and Technologies**      | [AgroNET](https://github.com/STW-24-25) | AgroNET is a collaborative web platform for farmers, offering crop data sharing, real-time market prices, personalized weather alerts, and interactive parcel mapping across Spain. | May 2025|
+| **Dissertation**| [TFG](https://github.com/Arejula11/TFG) | Web system developed for the Traumatology Department of the *Hospital Clínico Universitario Lopez Lozano* in Zaragoza | June 2025 |
 | | | | |
-| | | | |
+
 
 
 ---
