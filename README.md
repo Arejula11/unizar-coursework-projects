@@ -36,7 +36,7 @@ Each entry includes a brief description and a link to the corresponding reposito
 | | [Práctica 3](https://github.com/Arejula11/practica3_Prog2) | Third programming II assignment | May 2022|
 | | [Práctica 4](https://github.com/Arejula11/practica4_prog2) | Fourth programming II assignment | May 2022|
 | | [Betris](https://github.com/Arejula11/Trabajo_Prog2) | Develop Betris game using C++, a variant of Tetris | May 2022|
-| **Operating Systems**                | [Voluntary exercises](https://github.com/Arejula11/ejercicios_SO_voluntarios) | Voluntary exercises to improve the knowledge | Jan 2022 | 
+| **Operating Systems**                | [Voluntary exercises](https://github.com/Arejula11/ejercicios_SO_voluntarios) | Voluntary exercises to enhance understanding | Jan 2022 | 
 | **Computer Networks**                | [RC_prac2](https://github.com/Arejula11/prac2_redes.git) | TPC app| Oct 2022 | 
 | | [RC_prac3](https://github.com/Arejula11/RC_prac3.git) | UDP app | Nov 2022 |
 | | [RC_prac4](https://github.com/Arejula11/RC_prac4.git) | Implement a client program using the RCFTP protocol and extend it with data sequencing algorithms studied in class | Jan 2023 |
@@ -44,9 +44,18 @@ Each entry includes a brief description and a link to the corresponding reposito
 |  | [Prac2](https://github.com/Arejula11/practica2_pscd.git) | Synchronization problems—specifically condition synchronization and mutual exclusion—using busy-waiting techniques | Oct 2022 |
 |  | [Prac3](https://github.com/Arejula11/practica3_pscd.git) | Study and implementation of synchronization problems using semaphores | Nov 2022 |
 |  | [Prac4](https://github.com/Arejula11/practica4_pscd.git) | Study and implementation of synchronization problems using monitors | Nov 2022 |
-|  | [Prac5](https://github.com/Arejula11/practica5_pscd.git) | Client-server using asynchronous communication  | Dec 2022 |
-| **Data Structures and Algorithms**    |  | | |
-| **Computer Science Theory**           |  | | |
+|  | [Prac5](https://github.com/Arejula11/practica5_pscd.git) | Client-server communication using asynchronous methods | Dec 2022 |
+| **Data Structures and Algorithms**    | [Practica1](https://github.com/Arejula11/practica1_eda.git) | Implementation and analysis of abstract data type (ADT) to manage contacts | Oct 2022 |
+| |[Practica2](https://github.com/Arejula11/practica2_eda.git) | Implementation of generic grouping ADT to manage a contact agenda and a shopping list of products | Oct 2022 |
+| |[Practica3](https://github.com/Arejula11/practica3_eda.git) | Implementation of generic ADTs using dynamic memory  | Nov 2022 |
+| |[Practica4](https://github.com/Arejula11/practica4_eda.git) | Generic multiset implemented with a sorted singly linked list | Dec 2022 |
+| |[Practica5](https://github.com/Arejula11/practica5_eda.git) | Generic multiset implemented with a binary tree | Jan 2022 |
+| |[Practica6](https://github.com/Arejula11/practica6_eda.git) | Use previous ADT | Jan 2022 |
+| **Computer Science Theory**           | [Practica1](https://github.com/Arejula11/practica1_tcomp.git) | Flex and regular expressions | Oct 2022 |
+| | [Practica1_2](https://github.com/Arejula11/practica1_2_tcomp.git) | Flex and regular expressions | Oct 2022 |
+| | [Practica2](https://github.com/Arejula11/practica2_tcomp.git) | Advanced use of Flex | Nov 2022 |
+| | [Practica3](https://github.com/Arejula11/practica3_tcomp.git) | Introduction to Bison | Nov 2022 |
+| | [Practica4](https://github.com/Arejula11/practica4_tcomp.git) | Create a model to design algorithms | Jan 2023 |
 | **Computer Architecture and Organisation II**  | [Final project](https://github.com/Practicass/Proyecto_AOC2/tree/master) | Manage risks and exceptions in MIPS | May 2023|
 | **Systems Administration**            |  | | |
 | **Person-Computer Interaction**       |  | | |
@@ -74,7 +83,7 @@ Each entry includes a brief description and a link to the corresponding reposito
 | **Information Systems**           | [Odoo Review](https://github.com/Practicass/sisInfo2_proyect) | Review of an Open Source ERP system, Odoo, focusing on its architecture and functionalities.| May 2024 |
 | **Database and Web Applications Laboratory UPORTO**| [PawPals](https://github.com/Arejula11/PawPals)| A social network designed for the pet community. It allows pet owners to connect, share daily pet activities, discuss pet care, and promote pet adoption and rescue.| Jan 2025 |
 | **Interactive Graphics Systems UPORTO** | [SGI](https://github.com/Arejula11/SGI_FEUP) | Three projects using Threejs to create 3D scenes and one videogame| Jan 2025 |
-| **Software Engineering Laboratory**   | [ByronHUB](https://github.com/UNIZAR-30249-2025-PMPJ) | The Ada ByronHUB is an interactive platform designed to simplify and optimie the booking of spaces within the Ada Byron building. | May 2025 |
+| **Software Engineering Laboratory**   | [ByronHUB](https://github.com/UNIZAR-30249-2025-PMPJ) | The Ada ByronHUB is an interactive platform designed to simplify and optimize the booking of spaces within the Ada Byron building. | May 2025 |
 | **Web Systems and Technologies**      | [AgroNET](https://github.com/STW-24-25) | AgroNET is a collaborative web platform for farmers, offering crop data sharing, real-time market prices, personalized weather alerts, and interactive parcel mapping across Spain. | May 2025|
 | **Dissertation**| [TFG](https://github.com/Arejula11/TFG) | Web system developed for the Traumatology Department of the *Hospital Clínico Universitario Lopez Lozano* in Zaragoza | June 2025 |
 | | | | |
