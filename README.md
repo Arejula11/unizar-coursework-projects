@@ -57,9 +57,8 @@ Each entry includes a brief description and a link to the corresponding reposito
 | | [Practica3](https://github.com/Arejula11/practica3_tcomp.git) | Introduction to Bison | Nov 2022 |
 | | [Practica4](https://github.com/Arejula11/practica4_tcomp.git) | Create a model to design algorithms | Jan 2023 |
 | **Computer Architecture and Organisation II**  | [Final project](https://github.com/Practicass/Proyecto_AOC2/tree/master) | Manage risks and exceptions in MIPS | May 2023|
-| **Systems Administration**            | [Prac2_Adsis](https://github.com/Practicass/Prac2_Adsis.git) | | Mar 2023|
-|| [Prac3_Adsis](https://github.com/Practicass/Prac3_Adsis.git) | | Mar 2023|
-|| [Adsis Project](https://github.com/Practicass/Trabajo_Adsis.git) | | Apr 2023 |
+| **Systems Administration**            | [Prac2_Adsis](https://github.com/Practicass/Prac2_Adsis.git) | Multiple exercises to learn Bash | Mar 2023|
+|| [Prac3_Adsis](https://github.com/Practicass/Prac3_Adsis.git) | Exercises to improve in Bash | Mar 2023|
 | **Programming Theory**                | [Tecpro_1](https://github.com/Practicass/Tecpro_1.git) | | Feb 2023 |
 | | [Tecpro_2](https://github.com/Practicass/Tecpro_2.git) | | Mar 2023 |
 | | [Tecpro_3](https://github.com/Practicass/Tecpro_3.git) | | Mar 2023 |
