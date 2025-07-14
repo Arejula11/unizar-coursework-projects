@@ -61,7 +61,7 @@ Each entry includes a brief description and a link to the corresponding reposito
 | | [Flights DB](https://github.com/Practicass/Practica3_Vuelos)| Design and develop a database for managing flight information, including tables for flights, airports, and airlines | May 2023 |
 | **Hardware Project**                  | [Connect-k](https://github.com/Practicass/Proyecto_hardware) | Develop a fully autonomous and modular version of the Conecta K game on an LPC2105 microcontroller | Nov 2023 |
 | **Distributed Systems**               |  | | |
-| **Software Engineering**              | [OrderNow](https://github.com/Arejula11/M46_comidas.git) | Android app to manage restaurant plates and orders| |
+| **Software Engineering**              | [OrderNow](https://github.com/Arejula11/M46_comidas.git) | Android app to manage restaurant plates and orders | Jan 2024 |
 | **Artificial Intelligence**           | [P1](https://github.com/Arejula11/IA_P1) | Working with Aima | Sep 2023|
 |         | [P5](https://github.com/Arejula11/pract5_IA.git) | Bayesian inference | Dec 2023 |
 | **Information Systems**           | [FitLife](https://github.com/Practicass/FitLife) | FitLife is a social network for the fitness community| Dec 2023 |
