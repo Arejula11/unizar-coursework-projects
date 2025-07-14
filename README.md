@@ -57,19 +57,24 @@ Each entry includes a brief description and a link to the corresponding reposito
 | | [Practica3](https://github.com/Arejula11/practica3_tcomp.git) | Introduction to Bison | Nov 2022 |
 | | [Practica4](https://github.com/Arejula11/practica4_tcomp.git) | Create a model to design algorithms | Jan 2023 |
 | **Computer Architecture and Organisation II**  | [Final project](https://github.com/Practicass/Proyecto_AOC2/tree/master) | Manage risks and exceptions in MIPS | May 2023|
-| **Systems Administration**            |  | | |
-| **Person-Computer Interaction**       |  | | |
-| **Programming Theory**                |  | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| **Systems Administration**            | [Prac2_Adsis](https://github.com/Practicass/Prac2_Adsis.git) | | Mar 2023|
+|| [Prac3_Adsis](https://github.com/Practicass/Prac3_Adsis.git) | | Mar 2023|
+|| [Adsis Project](https://github.com/Practicass/Trabajo_Adsis.git) | | Apr 2023 |
+| **Programming Theory**                | [Tecpro_1](https://github.com/Practicass/Tecpro_1.git) | | Feb 2023 |
+| | [Tecpro_2](https://github.com/Practicass/Tecpro_2.git) | | Mar 2023 |
+| | [Tecpro_3](https://github.com/Practicass/Tecpro_3.git) | | Mar 2023 |
+| | [Tecpro_4](https://github.com/Practicass/Tecpro_4.git) | | Apr 2023 |
+| | [Tecpro_5](https://github.com/Practicass/Tecpro_5.git) | | Apr 2023 |
+| | [Tecpro_6](https://github.com/Practicass/Tecpro_6.git) | | May 2023 |
 | **Databases**                         | [Football DB](https://github.com/Practicass/Practica1_LigaFutbol) | Design and develop a database for managing football league information, including tables for teams, players, and matches | Mar 2023 |
 | | [Films DB](https://github.com/Practicass/Practica2_Peliculas) | Design and develop a database for managing film information, including tables for films, actors, and directors | Apr 2023 |
 | | [Flights DB](https://github.com/Practicass/Practica3_Vuelos)| Design and develop a database for managing flight information, including tables for flights, airports, and airlines | May 2023 |
 | **Hardware Project**                  | [Connect-k](https://github.com/Practicass/Proyecto_hardware) | Develop a fully autonomous and modular version of the Conecta K game on an LPC2105 microcontroller | Nov 2023 |
-| **Distributed Systems**               |  | | |
+| **Distributed Systems**               | [practica1_SisDis](https://github.com/Arejula11/practica1_SisDis.git) | Multiple server-client implementations in Go | Sep 2023 |
+| | [practica2_SisDis](https://github.com/Arejula11/practica_SisDis2.git) | The Ricart-Agrawala algorithm implementation | Oct 2023 |
+| | [practica3_SisDis](https://github.com/Arejula11/practica_SisDis3.git) | RAFT Part 1 | Nov 2023 |
+| | [practica4_SisDis](https://github.com/Arejula11/practica_SisDis4.git) | RAFT Part 2 | Dec 2023 |
+| | [practica5_SisDis](https://github.com/Arejula11/practica_SisDis5.git) | Kubernetes and Raft | Jan 2024 |
 | **Software Engineering**              | [OrderNow](https://github.com/Arejula11/M46_comidas.git) | Android app to manage restaurant plates and orders | Jan 2024 |
 | **Artificial Intelligence**           | [P1](https://github.com/Arejula11/IA_P1) | Working with Aima | Sep 2023|
 |         | [P5](https://github.com/Arejula11/pract5_IA.git) | Bayesian inference | Dec 2023 |
