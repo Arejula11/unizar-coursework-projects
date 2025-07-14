@@ -90,7 +90,6 @@ Each entry includes a brief description and a link to the corresponding reposito
 | **Software Engineering Laboratory**   | [ByronHUB](https://github.com/UNIZAR-30249-2025-PMPJ) | The Ada ByronHUB is an interactive platform designed to simplify and optimize the booking of spaces within the Ada Byron building. | May 2025 |
 | **Web Systems and Technologies**      | [AgroNET](https://github.com/STW-24-25) | AgroNET is a collaborative web platform for farmers, offering crop data sharing, real-time market prices, personalized weather alerts, and interactive parcel mapping across Spain. | May 2025|
 | **Dissertation**| [TFG](https://github.com/Arejula11/TFG) | Web system developed for the Traumatology Department of the *Hospital Clínico Universitario Lopez Lozano* in Zaragoza | June 2025 |
-| | | | |
 
 
 
