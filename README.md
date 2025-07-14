@@ -59,12 +59,12 @@ Each entry includes a brief description and a link to the corresponding reposito
 | **Computer Architecture and Organisation II**  | [Final project](https://github.com/Practicass/Proyecto_AOC2/tree/master) | Manage risks and exceptions in MIPS | May 2023|
 | **Systems Administration**            | [Prac2_Adsis](https://github.com/Practicass/Prac2_Adsis.git) | Multiple exercises to learn Bash | Mar 2023|
 || [Prac3_Adsis](https://github.com/Practicass/Prac3_Adsis.git) | Exercises to improve in Bash | Mar 2023|
-| **Programming Theory**                | [Tecpro_1](https://github.com/Practicass/Tecpro_1.git) | | Feb 2023 |
-| | [Tecpro_2](https://github.com/Practicass/Tecpro_2.git) | | Mar 2023 |
-| | [Tecpro_3](https://github.com/Practicass/Tecpro_3.git) | | Mar 2023 |
-| | [Tecpro_4](https://github.com/Practicass/Tecpro_4.git) | | Apr 2023 |
-| | [Tecpro_5](https://github.com/Practicass/Tecpro_5.git) | | Apr 2023 |
-| | [Tecpro_6](https://github.com/Practicass/Tecpro_6.git) | | May 2023 |
+| **Programming Theory**                | [Tecpro_1](https://github.com/Practicass/Tecpro_1.git) | Simple fraction calculator | Feb 2023 |
+| | [Tecpro_2](https://github.com/Practicass/Tecpro_2.git) | Implement a stack in C++ and Java | Mar 2023 |
+| | [Tecpro_3](https://github.com/Practicass/Tecpro_3.git) | Learn to combine inheritance and generic programming | Mar 2023 |
+| | [Tecpro_4](https://github.com/Practicass/Tecpro_4.git) | Simple File system in memory| Apr 2023 |
+| | [Tecpro_5](https://github.com/Practicass/Tecpro_5.git) | Explore the fundamentals of functional programming, including practical exercises in Haskell | Apr 2023 |
+| | [Tecpro_6](https://github.com/Practicass/Tecpro_6.git) | Understanding the definition and management of types and data structures in Haskell | May 2023 |
 | **Databases**                         | [Football DB](https://github.com/Practicass/Practica1_LigaFutbol) | Design and develop a database for managing football league information, including tables for teams, players, and matches | Mar 2023 |
 | | [Films DB](https://github.com/Practicass/Practica2_Peliculas) | Design and develop a database for managing film information, including tables for films, actors, and directors | Apr 2023 |
 | | [Flights DB](https://github.com/Practicass/Practica3_Vuelos)| Design and develop a database for managing flight information, including tables for flights, airports, and airlines | May 2023 |
