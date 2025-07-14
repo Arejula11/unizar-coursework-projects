@@ -37,7 +37,9 @@ Each entry includes a brief description and a link to the corresponding reposito
 | | [Práctica 4](https://github.com/Arejula11/practica4_prog2) | Fourth programming II assignment | May 2022|
 | | [Betris](https://github.com/Arejula11/Trabajo_Prog2) | Develop Betris game using C++, a variant of Tetris | May 2022|
 | **Operating Systems**                | [Voluntary exercises](https://github.com/Arejula11/ejercicios_SO_voluntarios) | Voluntary exercises to improve the knowledge | Jan 2022 | 
-| **Computer Networks**                |  | | | 
+| **Computer Networks**                | [RC_prac2](https://github.com/Arejula11/prac2_redes.git) | TPC app| Oct 2022 | 
+| | [RC_prac3](https://github.com/Arejula11/RC_prac3.git) | UDP app | Nov 2022 |
+| | [RC_prac4](https://github.com/Arejula11/RC_prac4.git) | Implement a client program using the RCFTP protocol and extend it with data sequencing algorithms studied in class | Jan 2023 |
 | **Concurrent and Distributed Systems Programming**  | [Prac1](https://github.com/Arejula11/practica1_pscd.git) | Explore fundamental concepts of concurrent programming | Sep 2022 |
 |  | [Prac2](https://github.com/Arejula11/practica2_pscd.git) | Synchronization problems—specifically condition synchronization and mutual exclusion—using busy-waiting techniques | Oct 2022 |
 |  | [Prac3](https://github.com/Arejula11/practica3_pscd.git) | Study and implementation of synchronization problems using semaphores | Nov 2022 |
