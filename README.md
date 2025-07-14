@@ -38,7 +38,11 @@ Each entry includes a brief description and a link to the corresponding reposito
 | | [Betris](https://github.com/Arejula11/Trabajo_Prog2) | Develop Betris game using C++, a variant of Tetris | May 2022|
 | **Operating Systems**                | [Voluntary exercises](https://github.com/Arejula11/ejercicios_SO_voluntarios) | Voluntary exercises to improve the knowledge | Jan 2022 | 
 | **Computer Networks**                |  | | | 
-| **Concurrent and Distributed Systems Programming**  |  | | |
+| **Concurrent and Distributed Systems Programming**  | [Prac1](https://github.com/Arejula11/practica1_pscd.git) | Explore fundamental concepts of concurrent programming | Sep 2022 |
+|  | [Prac2](https://github.com/Arejula11/practica2_pscd.git) | Synchronization problems—specifically condition synchronization and mutual exclusion—using busy-waiting techniques | Oct 2022 |
+|  | [Prac3](https://github.com/Arejula11/practica3_pscd.git) | Study and implementation of synchronization problems using semaphores | Nov 2022 |
+|  | [Prac4](https://github.com/Arejula11/practica4_pscd.git) | Study and implementation of synchronization problems using monitors | Nov 2022 |
+|  | [Prac5](https://github.com/Arejula11/practica5_pscd.git) | Client-server using asynchronous communication  | Dec 2022 |
 | **Data Structures and Algorithms**    |  | | |
 | **Computer Science Theory**           |  | | |
 | **Computer Architecture and Organisation II**  | [Final project](https://github.com/Practicass/Proyecto_AOC2/tree/master) | Manage risks and exceptions in MIPS | May 2023|
@@ -56,7 +60,8 @@ Each entry includes a brief description and a link to the corresponding reposito
 | **Hardware Project**                  | [Connect-k](https://github.com/Practicass/Proyecto_hardware) | Develop a fully autonomous and modular version of the Conecta K game on an LPC2105 microcontroller | Nov 2023 |
 | **Distributed Systems**               |  | | |
 | **Software Engineering**              |  | | |
-| **Artificial Intelligence**           |  | | |
+| **Artificial Intelligence**           | [P1](https://github.com/Arejula11/IA_P1) | Working with Aima | Sep 2023|
+|         | [P5](https://github.com/Arejula11/pract5_IA.git) | Bayesian inference | Dec 2023 |
 | **Information Systems**           | [FitLife](https://github.com/Practicass/FitLife) | FitLife is a social network for the fitness community| Dec 2023 |
 | **Software Project**                  | [PlayBeat](https://github.com/UNIZAR-30226-2024-03) | A web platform to play music, upload your own tracks, and create shared playlists with other users. | May 2024 |
 | **Verification and Validation**       | [Project](https://github.com/Practicass/unizar-vv-comidas) | Testing project of a Java application | May 2024 |
