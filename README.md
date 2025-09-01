@@ -17,7 +17,7 @@ Each entry includes a brief description and a link to the corresponding reposito
 * 🎓 **Degree**: Bachelor's in Informatics Engineering
 * 🏫 **University**: University of Zaragoza (UNIZAR)
 * 🌍 **Exchange Program**: University of Porto (Erasmus+)
-* 📍 **Locations**: Zaragoza, Spain & Porto, Portugal
+* 📍 **Locations**: Zaragoza, Spain 🇪🇸  & Porto, Portugal 🇵🇹 
 * 📅 **Years**: Sep 2021 – Jun 2025
 
 ---
